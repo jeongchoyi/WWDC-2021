@@ -1,10 +1,10 @@
 # If you had wings<img src="https://user-images.githubusercontent.com/28949235/115189409-5f4ff380-a121-11eb-93d5-335e73945651.png" align=left width=200> 
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
@@ -12,17 +12,17 @@
 
 ### Tools
 
-![SWIFT 5.3](https://img.shields.io/static/v1?style=for-the-badge&logo=swift&message=SWIFT 5.3&label=&color=FA7343&labelColor=000000) ![Xcode](https://img.shields.io/static/v1?style=for-the-badge&logo=xcode&message=Xcode 12.4&label=&color=1675F9&labelColor=000000) ![SWIFT Playgrounds](https://img.shields.io/static/v1?style=for-the-badge&logo=swift&message=SWIFT PLAYGROUNDS 3.4.1&label=&color=FA7343&labelColor=f9e7d7)
+![SWIFT 5.3](https://img.shields.io/static/v1?style=for-the-badge&logo=swift&message=SWIFT5.3&label=&color=FA7343&labelColor=000000) ![Xcode](https://img.shields.io/static/v1?style=for-the-badge&logo=xcode&message=Xcode12.4&label=&color=1675F9&labelColor=000000) ![SWIFT Playgrounds](https://img.shields.io/static/v1?style=for-the-badge&logo=swift&message=SwiftPLAYGROUNDS3.4.1&label=&color=FA7343&labelColor=f9e7d7)
 
 ### Technologies
 
-<img src="https://user-images.githubusercontent.com/28949235/115190700-66780100-a123-11eb-929c-f0360c133853.png" alt="image" width=100 />
+<p align=center><img src="https://user-images.githubusercontent.com/28949235/115190700-66780100-a123-11eb-929c-f0360c133853.png" alt="image" width=100 /></p>
 
-<center>SwiftUI</center>
+<p align=center>SwiftUI</p>
 
-<img src="https://user-images.githubusercontent.com/28949235/115190919-b0f97d80-a123-11eb-9e05-e31682642adc.png" alt="image" width=300 />
+<p align=center><img src="https://user-images.githubusercontent.com/28949235/115191618-a4c1f000-a124-11eb-81fe-046fe8a58942.png" alt="image" width=300 /></p>
 
-<center>SpriteKit</center>
+<p align=center>SpriteKit</p>
 
 ### Description
 
